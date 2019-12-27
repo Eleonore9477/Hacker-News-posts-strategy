@@ -1,4 +1,4 @@
-# data_project_3
+# data_project_2
 
 ## Hacker News posts strategy
 In this project, we'll work with a data set of submissions to popular technology site Hacker News.
